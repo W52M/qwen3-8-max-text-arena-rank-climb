@@ -1,0 +1,12 @@
+node_modules/
+out/
+.env
+.env.*
+*.mp4
+*.mov
+*.webm
+*.gif
+.DS_Store
+credentials*
+*token*
+
